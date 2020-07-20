@@ -29,7 +29,7 @@
     3. Executing the Plan
 </h2>
 * Started IntelliJ and will import as Java project to have a proper src folder and I will now setup my project with test directory and JUnit5.
-* 
+* After I will build out the skeleton of my application and write my first test, making sure that it fails first.
 *
 *
 *
